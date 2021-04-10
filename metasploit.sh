@@ -1,10 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "MsfInstaller by Sovenok-Hacker"
 echo "Потребуется около 1GB памяти и интернета!!! Вы уверены что хотите продолжить?!"
-echo       
-             
-            /\
-            \/
 echo "Установка компонентов..." 
 
 echo "####################################"
